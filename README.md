@@ -13,6 +13,12 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 - First Find
   - [Challenge](https://play.picoctf.org/practice/challenge/320)
   - [Solution](./general-skills/first-find/README.md)
+- runme.py
+  - [Challenge](https://play.picoctf.org/practice/challenge/250)
+  - [Solution](./general-skills/runme-py/README.md)
+- Serpentine
+  - [Challenge](https://play.picoctf.org/practice/challenge/251)
+  - [Solution](./general-skills/serpentine/README.md)
 
 ## Forensics
 
