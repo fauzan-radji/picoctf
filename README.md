@@ -52,3 +52,9 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 - logon
   - [Challenge](https://play.picoctf.org/practice/challenge/46)
   - [Solution](./web-exploitation/logon/README.md)
+
+## Reverse Engineering
+
+- Safe Opener
+  - [Challenge](https://play.picoctf.org/practice/challenge/294)
+  - [Solution](./reverse-engineering/safe-opener/README.md)
