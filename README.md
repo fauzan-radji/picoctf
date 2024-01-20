@@ -58,3 +58,6 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 - Safe Opener
   - [Challenge](https://play.picoctf.org/practice/challenge/294)
   - [Solution](./reverse-engineering/safe-opener/README.md)
+- Safe Opener 2
+  - [Challenge](https://play.picoctf.org/practice/challenge/375)
+  - [Solution](./reverse-engineering/safe-opener-2/README.md)
