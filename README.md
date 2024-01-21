@@ -19,6 +19,9 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 - Serpentine
   - [Challenge](https://play.picoctf.org/practice/challenge/251)
   - [Solution](./general-skills/serpentine/README.md)
+- Nice Netcat...
+  - [Challenge](https://play.picoctf.org/practice/challenge/156)
+  - [Solution](./general-skills/nice-netcat/README.md)
 
 ## Forensics
 
