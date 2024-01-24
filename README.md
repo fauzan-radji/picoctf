@@ -29,10 +29,11 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 
 ## Web Exploitation
 
-| Name     | Challenge                                                    | Solution                                          |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------- |
-| logon    | [Challenge](https://play.picoctf.org/practice/challenge/46)  | [Solution](./web-exploitation/logon/README.md)    |
-| Includes | [Challenge](https://play.picoctf.org/practice/challenge/274) | [Solution](./web-exploitation/includes/README.md) |
+| Name                     | Challenge                                                    | Solution                                                          |
+| ------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
+| logon                    | [Challenge](https://play.picoctf.org/practice/challenge/46)  | [Solution](./web-exploitation/logon/README.md)                    |
+| Includes                 | [Challenge](https://play.picoctf.org/practice/challenge/274) | [Solution](./web-exploitation/includes/README.md)                 |
+| Some Assembly Required 1 | [Challenge](https://play.picoctf.org/practice/challenge/152) | [Solution](./web-exploitation/some-assembly-required-1/README.md) |
 
 ## Reverse Engineering
 
