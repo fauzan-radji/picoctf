@@ -1,5 +1,7 @@
 # First Find
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/320)
+
 ## Description
 
 Unzip this archive and find the file named 'uber-secret.txt'

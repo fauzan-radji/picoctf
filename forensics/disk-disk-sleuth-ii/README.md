@@ -1,5 +1,7 @@
 # Disk, disk, sleuth! II
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/137)
+
 ## Description
 
 All we know is the file with the flag is named `down-at-the-bottom.txt`... Disk image: [dds2-alpine.flag.img.gz](https://mercury.picoctf.net/static/aed64c508175df5fe23207c10e0e47e5/dds2-alpine.flag.img.gz)

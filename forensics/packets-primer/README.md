@@ -1,5 +1,7 @@
 # Packets Primer
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/286)
+
 ## Description
 
 Download the packet capture file and use packet analysis software to find the flag.

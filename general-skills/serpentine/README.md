@@ -1,5 +1,7 @@
 # Serpentine
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/251)
+
 ## Description
 
 Find the flag in the Python script! [Download Python script](https://artifacts.picoctf.net/c/36/serpentine.py)

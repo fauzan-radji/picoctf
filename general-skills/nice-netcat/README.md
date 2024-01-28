@@ -1,5 +1,7 @@
 # Nice netcat...
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/156)
+
 ## Description
 
 There is a nice program that you can talk to by using this command in a shell: `$ nc mercury.picoctf.net 21135`, but it doesn't speak English...

@@ -1,5 +1,7 @@
 # Big Zip
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/322)
+
 ## Description
 
 Unzip this archive and find the flag.

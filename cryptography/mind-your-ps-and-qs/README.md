@@ -1,5 +1,7 @@
 # Mind your Ps and Qs
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/162)
+
 ## Description
 
 In RSA, a small `e` value can be problematic, but what about `N`? Can you decrypt this? [values](https://mercury.picoctf.net/static/2604f8b51a5cc62d38a3736938f19cef/values)

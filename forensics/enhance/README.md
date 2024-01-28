@@ -1,5 +1,7 @@
 # Enhance!
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/265)
+
 ## Description
 
 Download this image file and find the flag.

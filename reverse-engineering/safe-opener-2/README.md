@@ -1,5 +1,7 @@
 # Safe Opener 2
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/375)
+
 ## Description
 
 What can you do with this file?\

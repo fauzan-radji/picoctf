@@ -1,5 +1,7 @@
 # repetitions
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/371)
+
 ## Description
 
 Can you make sense of this file?\

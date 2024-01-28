@@ -19,7 +19,7 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 | Name                   | Challenge                                                    | Solution                                               | Points |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | ------ |
 | Glory of the Garden    | [Challenge](https://play.picoctf.org/practice/challenge/44)  | [Solution](./forensics/glory-of-the-garden/README.md)  | 50     |
-| Information            | [Challenge](https://play.picoctf.org/practice/challenge/186) | [Solution](./forensics/information/README.md)          | 10     |
+| information            | [Challenge](https://play.picoctf.org/practice/challenge/186) | [Solution](./forensics/information/README.md)          | 10     |
 | Enhance!               | [Challenge](https://play.picoctf.org/practice/challenge/265) | [Solution](./forensics/enhance/README.md)              | 100    |
 | Sleuthkit Intro        | [Challenge](https://play.picoctf.org/practice/challenge/301) | [Solution](./forensics/sleuthkit-intro/README.md)      | 100    |
 | Sleuthkit Apprentice   | [Challenge](https://play.picoctf.org/practice/challenge/300) | [Solution](./forensics/sleuthkit-apprentice/README.md) | 200    |
@@ -41,6 +41,7 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 | ------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------ |
 | Safe Opener   | [Challenge](https://play.picoctf.org/practice/challenge/294) | [Solution](./reverse-engineering/safe-opener/README.md)   | 100    |
 | Safe Opener 2 | [Challenge](https://play.picoctf.org/practice/challenge/375) | [Solution](./reverse-engineering/safe-opener-2/README.md) | 100    |
+| keygenme-py   | [Challenge](https://play.picoctf.org/practice/challenge/121) | [Solution](./reverse-engineering/keygenme-py/README.md)   | 30     |
 
 ## Binary Exploitation
 
