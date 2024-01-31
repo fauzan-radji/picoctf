@@ -34,6 +34,7 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 | logon                    | [Challenge](https://play.picoctf.org/practice/challenge/46)  | [Solution](./web-exploitation/logon/README.md)                    | 100    |
 | Includes                 | [Challenge](https://play.picoctf.org/practice/challenge/274) | [Solution](./web-exploitation/includes/README.md)                 | 100    |
 | Some Assembly Required 1 | [Challenge](https://play.picoctf.org/practice/challenge/152) | [Solution](./web-exploitation/some-assembly-required-1/README.md) | 70     |
+| Cookies                  | [Challenge](https://play.picoctf.org/practice/challenge/173) | [Solution](./web-exploitation/cookies/README.md)                  | 40     |
 
 ## Reverse Engineering
 
@@ -42,6 +43,7 @@ This repository contains my writeups for the challenges in the [Pico CTF Platfor
 | Safe Opener   | [Challenge](https://play.picoctf.org/practice/challenge/294) | [Solution](./reverse-engineering/safe-opener/README.md)   | 100    |
 | Safe Opener 2 | [Challenge](https://play.picoctf.org/practice/challenge/375) | [Solution](./reverse-engineering/safe-opener-2/README.md) | 100    |
 | keygenme-py   | [Challenge](https://play.picoctf.org/practice/challenge/121) | [Solution](./reverse-engineering/keygenme-py/README.md)   | 30     |
+| crackme-py    | [Challenge](https://play.picoctf.org/practice/challenge/175) | [Solution](./reverse-engineering/crackme-py/README.md)    | 30     |
 
 ## Binary Exploitation
 
